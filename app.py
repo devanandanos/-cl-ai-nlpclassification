@@ -6,7 +6,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
 # Load model + vectorizer
-model = joblib.load("sentiment_svm_model.pkl")
+model = joblib.load("sentiment_model.pkl")
 vectorizer = joblib.load("tfidf_vectorizer.pkl")
 
 nltk.download('stopwords')
