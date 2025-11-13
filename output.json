@@ -1,0 +1,35 @@
+[
+    {
+        "filename": "resume1.txt",
+        "extracted_info": {
+            "emails": [
+                "johndoe@gmail.com"
+            ],
+            "phone_numbers": [
+                "+1 "
+            ]
+        }
+    },
+    {
+        "filename": "resume2.txt",
+        "extracted_info": {
+            "emails": [
+                "jane_smith@outlook.com"
+            ],
+            "phone_numbers": [
+                "98"
+            ]
+        }
+    },
+    {
+        "filename": "resume3.txt",
+        "extracted_info": {
+            "emails": [
+                "mark.lee@yahoo.com"
+            ],
+            "phone_numbers": [
+                "+44-"
+            ]
+        }
+    }
+]
